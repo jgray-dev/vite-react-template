@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  background-color: #232323;
+  color: white;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+}
